@@ -91,12 +91,6 @@
 
 </div>
 
-<!-- Snake animation: requires the Platane/snk GitHub Action (setup note below) -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mani-995/mani-995/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
 
 ---
 
